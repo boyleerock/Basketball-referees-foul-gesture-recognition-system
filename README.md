@@ -8,4 +8,4 @@
 
 https://user-images.githubusercontent.com/61671531/142387758-af1524db-c6f7-4995-a17f-3f64c57d59a0.mp4
 
-Demo Video dor each foul>>>[CLICK HERE](https://www.youtube.com/playlist?list=PLsQ9Nh7BGa-iEB3qGLAQrYaBvTKtaPmK-)
+Demo Video for each foul on Youtube>>>[CLICK HERE](https://www.youtube.com/playlist?list=PLsQ9Nh7BGa-iEB3qGLAQrYaBvTKtaPmK-)
