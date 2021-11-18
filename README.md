@@ -10,7 +10,7 @@ Boxing the referee with a foul label and its predicted percentage:
 
 https://user-images.githubusercontent.com/61671531/142387758-af1524db-c6f7-4995-a17f-3f64c57d59a0.mp4
 
-Demo Video for each foul on Youtube>>>[CLICK HERE](https://www.youtube.com/playlist?list=PLsQ9Nh7BGa-iEB3qGLAQrYaBvTKtaPmK-)
+Demo Videos for each foul on Youtube>>>[CLICK HERE](https://www.youtube.com/playlist?list=PLsQ9Nh7BGa-iEB3qGLAQrYaBvTKtaPmK-)
 
 ### Abstract:
 有鑑於現今籃球比賽犯規紀錄繁雜，紀錄台人員需耗費大量心力在比對裁判的判決，為避免人為判斷的疏失，所以本系統使用AI 影像辨識來追蹤裁判及學習裁判犯規的手勢，可望取代紀錄台人員，降低人力成本，增加比賽進行的效率。
