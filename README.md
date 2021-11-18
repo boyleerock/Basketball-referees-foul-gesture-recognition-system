@@ -1,6 +1,6 @@
 # Basketball-referees-foul-gesture-recognition-system
 
-### Boxing the referee with foul label and its predicted percentage:
+### Boxing the referee with a foul label and its predicted percentage:
 
 <img width="247" alt="holding foul" src="https://user-images.githubusercontent.com/61671531/142389043-f67e4d7b-b0fe-4b87-b5f6-f4308ea43e0b.png">
 
