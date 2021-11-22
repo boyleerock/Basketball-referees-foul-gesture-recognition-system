@@ -6,6 +6,18 @@
 我將實際的籃球比賽影片作為資料，以**YOLOv5**追蹤裁判位置，再針對籃球常見的四種犯規(**阻擋、推人、拉手、進攻犯規**)以**mediapipe**擷取身體結點，透過**KNN model** trainnig，最後結合完成裁判追蹤及犯規手勢辨識的系統。
 
 
+### Result:
+
+Boxing the referee with a foul label and its predicted percentage:
+
+<img width="247" alt="holding foul" src="https://user-images.githubusercontent.com/61671531/142389043-f67e4d7b-b0fe-4b87-b5f6-f4308ea43e0b.png">
+
+### Demo Video:
+
+https://user-images.githubusercontent.com/61671531/142387758-af1524db-c6f7-4995-a17f-3f64c57d59a0.mp4
+
+Demo Videos for each foul on Youtube>>>[CLICK HERE](https://www.youtube.com/playlist?list=PLsQ9Nh7BGa-iEB3qGLAQrYaBvTKtaPmK-)
+
 ### Methods:
 
 <img width="568" alt="system slow" src="https://user-images.githubusercontent.com/61671531/142393084-d534bf28-fce2-4c32-820d-7f7015bcf9d9.png">
@@ -19,14 +31,3 @@
 2.1. 蒐集資料: 從youtube上抓取影片，並使用PowerPoint 和 PotPlayer擷取連續動作的圖片。                   
 2.2. 使用KNN Model 訓練處理後的圖片資料，以辨識裁判犯規手勢的結果。    
 
-### Result:
-
-Boxing the referee with a foul label and its predicted percentage:
-
-<img width="247" alt="holding foul" src="https://user-images.githubusercontent.com/61671531/142389043-f67e4d7b-b0fe-4b87-b5f6-f4308ea43e0b.png">
-
-### Demo Video:
-
-https://user-images.githubusercontent.com/61671531/142387758-af1524db-c6f7-4995-a17f-3f64c57d59a0.mp4
-
-Demo Videos for each foul on Youtube>>>[CLICK HERE](https://www.youtube.com/playlist?list=PLsQ9Nh7BGa-iEB3qGLAQrYaBvTKtaPmK-)
