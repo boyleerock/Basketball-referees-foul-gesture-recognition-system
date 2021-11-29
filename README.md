@@ -24,11 +24,22 @@ Demo Videos for each foul on Youtube>>>[CLICK HERE](https://www.youtube.com/play
 <img width="568" alt="system slow" src="https://user-images.githubusercontent.com/61671531/142393084-d534bf28-fce2-4c32-820d-7f7015bcf9d9.png">
 
 #### 1. 追蹤裁判:
-1.1. 蒐集資料: 從youtube上抓取影片，並使用PowerPoint 和 PicPick擷取連續動作的圖片。         
+1.1. 蒐集資料: 從youtube上抓取影片，並使用PowerPoint 和 PicPick擷取連續動作的圖片。 
+<img width="407" alt="Screenshot 2021-11-29 120859" src="https://user-images.githubusercontent.com/61671531/143807519-522278f6-71b3-4057-9fe9-b0b45a29e556.png">
+
 2.2. 前處理資料: 使用Labelimg 抓取各別裁判人員的特徵(ex: 裁判服裝)，以得到Label座標值txt檔。          
 2.3. 並使用YOLOv4(可以商業化), YOLOv5(減少訓練時間80%) 訓練處理後的資料，以成功追蹤裁判的位置     
 
 #### 2. 犯規手勢辨識:
-2.1. 蒐集資料: 從youtube上抓取影片，並使用PowerPoint 和 PotPlayer擷取連續動作的圖片。                   
-2.2. 使用KNN Model 訓練處理後的圖片資料，以辨識裁判犯規手勢的結果。    
+2.1. 蒐集資料: 從youtube上抓取影片，並使用PowerPoint 和 PotPlayer擷取連續動作的圖片。
+<img width="404" alt="Screenshot 2021-11-29 121030" src="https://user-images.githubusercontent.com/61671531/143807678-71f9ded4-2117-476d-b057-f4984cb89cd5.png">
+
+2.2. 資料前處理：標準化
+<img width="431" alt="Screenshot 2021-11-29 121226" src="https://user-images.githubusercontent.com/61671531/143807765-cfb99cc0-90ab-4cd5-b493-4d07936cb203.png">
+<img width="426" alt="Screenshot 2021-11-29 121305" src="https://user-images.githubusercontent.com/61671531/143807824-986a373a-dbfd-4fb2-afec-942f88b32a19.png">
+
+
+2.3. 使用KNN Model 訓練處理後的圖片資料，以辨識裁判犯規手勢的結果。    
+<img width="467" alt="Screenshot 2021-11-29 121350" src="https://user-images.githubusercontent.com/61671531/143807896-0611e872-280a-4418-b365-b7b84046fa44.png">
+
 
