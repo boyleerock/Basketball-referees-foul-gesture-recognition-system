@@ -35,6 +35,7 @@ Demo Videos for each foul on Youtube>>>[CLICK HERE](https://www.youtube.com/play
 <img width="404" alt="Screenshot 2021-11-29 121030" src="https://user-images.githubusercontent.com/61671531/143807678-71f9ded4-2117-476d-b057-f4984cb89cd5.png">
 
 2.2. 資料前處理：標準化
+
 <img width="431" alt="Screenshot 2021-11-29 121226" src="https://user-images.githubusercontent.com/61671531/143807765-cfb99cc0-90ab-4cd5-b493-4d07936cb203.png">
 <img width="426" alt="Screenshot 2021-11-29 121305" src="https://user-images.githubusercontent.com/61671531/143807824-986a373a-dbfd-4fb2-afec-942f88b32a19.png">
 
