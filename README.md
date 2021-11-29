@@ -19,6 +19,7 @@ https://user-images.githubusercontent.com/61671531/142387758-af1524db-c6f7-4995-
 Demo Videos for each foul on Youtube>>>[CLICK HERE](https://www.youtube.com/playlist?list=PLsQ9Nh7BGa-iEB3qGLAQrYaBvTKtaPmK-)
 
 ### Methods:
+<img width="395" alt="Screenshot 2021-11-29 120626" src="https://user-images.githubusercontent.com/61671531/143807253-bb346825-18ab-4fc8-b4ff-15e4a968e143.png">
 
 <img width="568" alt="system slow" src="https://user-images.githubusercontent.com/61671531/142393084-d534bf28-fce2-4c32-820d-7f7015bcf9d9.png">
 
